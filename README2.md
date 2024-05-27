@@ -15,7 +15,7 @@ cd employee-activity-dashboard
 
 npm install
 This command starts the development server and opens the project in your default web browser. If it doesn't open automatically, you can navigate to [http://localhost:3000](http://localhost:3000) in your browser.
-
+you can replace your file with my files.(app.js, app.css)
 ### Usage
 
 You can view the employee activity dashboard with employee details and the Employee of the Month section.
